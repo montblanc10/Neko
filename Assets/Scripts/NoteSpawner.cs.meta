@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 769b12ac4b9c29c4bb4c160394437e64
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - normalNotePrefab: {fileID: 4989755221986147989, guid: 99adf29af9238ef47b26ada12e74ea17, type: 3}
+  - holdNotePrefab: {fileID: 4277119165073413713, guid: 9b6f6a9928e7aba48b8e6d9ac0235efd, type: 3}
+  - flickNotePrefab: {instanceID: 0}
+  - spawnPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
